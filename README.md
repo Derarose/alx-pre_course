@@ -1,6 +1,5 @@
 My first readme
-
-Hello GIT
+Happy me
 
 
 
